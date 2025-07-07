@@ -1,6 +1,6 @@
 ### My name is Eslam Mohamed.
 
-This is a repository of my Data Analytics projects using mostly SQL, and Python.
+This is a repository of my Data Analytics projects using mostly SQL, Power BI and Python.
 
 ### 📫 Connect with me:
 <a href="mailto:em4132275@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
